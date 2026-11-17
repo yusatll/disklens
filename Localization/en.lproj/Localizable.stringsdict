@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>%lld files</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld file</string>
+      <key>other</key><string>%lld files</string>
+    </dict>
+  </dict>
+  <key>%lld folders couldn't be read, so part of the disk shows up as hidden space.</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld folder couldn't be read, so part of the disk shows up as hidden space.</string>
+      <key>other</key><string>%lld folders couldn't be read, so part of the disk shows up as hidden space.</string>
+    </dict>
+  </dict>
+  <key>%lld folders were scanned as administrator.</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld folder was scanned as administrator.</string>
+      <key>other</key><string>%lld folders were scanned as administrator.</string>
+    </dict>
+  </dict>
+  <key>%lld items</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld item</string>
+      <key>other</key><string>%lld items</string>
+    </dict>
+  </dict>
+  <key>%lld items (%@)</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%1$lld item (%2$@)</string>
+      <key>other</key><string>%1$lld items (%2$@)</string>
+    </dict>
+  </dict>
+  <key>%lld items are protected by macOS (for example Safari's and iCloud's own caches) and were left in place. This is normal; only macOS may change them.</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld item is protected by macOS (for example Safari's and iCloud's own caches) and was left in place. This is normal; only macOS may change it.</string>
+      <key>other</key><string>%lld items are protected by macOS (for example Safari's and iCloud's own caches) and were left in place. This is normal; only macOS may change them.</string>
+    </dict>
+  </dict>
+  <key>%lld items could not be removed:</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld item could not be removed:</string>
+      <key>other</key><string>%lld items could not be removed:</string>
+    </dict>
+  </dict>
+  <key>%lld items were moved to the Trash; empty it to free their space.</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld item was moved to the Trash; empty it to free its space.</string>
+      <key>other</key><string>%lld items were moved to the Trash; empty it to free their space.</string>
+    </dict>
+  </dict>
+  <key>%lld snapshots</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>%lld snapshot</string>
+      <key>other</key><string>%lld snapshots</string>
+    </dict>
+  </dict>
+  <key>Clean %lld categories?</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>Clean %lld category?</string>
+      <key>other</key><string>Clean %lld categories?</string>
+    </dict>
+  </dict>
+  <key>The remaining %lld folders are protected by macOS privacy controls, which also apply to administrators. Give DiskLens Full Disk Access, reopen it and rescan to include them.</key>
+  <dict>
+    <key>NSStringLocalizedFormatKey</key><string>%#@n@</string>
+    <key>n</key>
+    <dict>
+      <key>NSStringFormatSpecTypeKey</key><string>NSStringPluralRuleType</string>
+      <key>NSStringFormatValueTypeKey</key><string>lld</string>
+      <key>one</key><string>The remaining folder is protected by macOS privacy controls, which also apply to administrators. Give DiskLens Full Disk Access, reopen it and rescan to include it.</string>
+      <key>other</key><string>The remaining %lld folders are protected by macOS privacy controls, which also apply to administrators. Give DiskLens Full Disk Access, reopen it and rescan to include them.</string>
+    </dict>
+  </dict>
+</dict>
+</plist>
